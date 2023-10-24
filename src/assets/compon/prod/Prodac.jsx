@@ -1,5 +1,5 @@
 import React from 'react'
-import Prodacq from '../prodacq/prodacq'
+import Prodacq from '../prodacq'
 function Prodac() {
     const prod =[
         {id:1,title :'pro one', desc :'this is product one',price:120}
